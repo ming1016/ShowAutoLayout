@@ -1,2 +1,2 @@
 # ShowAutoLayout
-演示Auto Layout的Content Compression Resistance Priority
+演示Auto Layout的Content Compression Resistance Priority的例子，例子展示的是比较常见的视图元素对于屏幕或父视图的挤压做出的不同权重的显示，这个Compression特性和Hugging处理起来比以前算frame的方式要简洁太多，这个是我认为为什么要用Auto Layout的主要原因。
